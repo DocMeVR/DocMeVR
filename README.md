@@ -1,7 +1,7 @@
 ### Hello there 👋
 
-- 🔭 I’m currently studying at the University of Bielefeld
-- 🌱 I’m currently learning Cognitive Computer Science 🤖
+- 🔭 Did my Bachelor of Science at the University of Bielefeld
+- 🌱 Studied Cognitive Computer Science 🤖
 - 🎨 I also like to 3D Model and develop shaders. 
 - 🤯 In my free time I love to play any kind of video games
 - 📫 Discord: DocMe
